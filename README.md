@@ -164,59 +164,6 @@ graph LR
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stars | Tech Stack |
-|---------|-------------|-------|------------|
-| [VulnScanner](https://github.com/Lutfifakee-Project/vulnscanner) | Automated vulnerability scanner with ML | ⭐ 245 | Python, Nmap, TensorFlow |
-| [WebCrawlerX](https://github.com/Lutfifakee-Project/webcrawlerx) | Advanced web crawling & enumeration | ⭐ 189 | Python, Selenium, BeautifulSoup |
-| [NetMonitor](https://github.com/Lutfifakee-Project/netmonitor) | Real-time network monitoring & IDS | ⭐ 156 | C++, Wireshark, TCPDump |
-| [SQLMapPro](https://github.com/Lutfifakee-Project/sqlmappro) | Automated SQL injection tool | ⭐ 312 | Python, PHP, MySQL |
-| [HashCracker](https://github.com/Lutfifakee-Project/hashcracker) | Multi-algorithm hash cracker | ⭐ 98 | C, OpenCL, Assembly |
-
----
-
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       8 hrs 30 mins  ████████░░░░░░░░░░░░░░   38.2%
-C/C++        4 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░   21.5%
-PHP          3 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░   15.1%
-JavaScript   2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░░░   10.3%
-Bash         1 hr 45 mins   █▒░░░░░░░░░░░░░░░░░░░░    8.0%
-Assembly     1 hr           █░░░░░░░░░░░░░░░░░░░░░    4.6%
-Other        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░    2.3%
-```
-<!--END_SECTION:waka-->
-
----
-
-## When I'm Not Coding
-
-```
-Playing CTF competitions on HackTheBox & TryHackMe
-Reading cybersecurity research papers & exploit databases
-Listening to synthwave/LoFi while hacking
-Drinking coffee (lots of it!) - Fuel for late-night sessions
-Reverse engineering old video games for fun
-Building custom mechanical keyboards
-```
-
----
-
-## Terminal Fun
-
-```bash
-# Check out my activity
-$ curl -s https://api.github.com/users/Lutfifakee-Project/events | jq '.[].type'
-
-# Hire me (maybe?)
-$ echo "lutfifakeeproject@proton.me" | base64 -d
-```
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lutfifakee-Project&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" alt="Profile Views" />
 </p>
