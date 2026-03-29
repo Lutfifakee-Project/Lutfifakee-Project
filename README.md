@@ -20,11 +20,7 @@ let identity = "Lutfifakee-Project"
 echo "Hello, world! I'm ", identity, " - a digital ghost roaming the halls of cyberspace."
 ```
 
-Hello, world! I'm **Lutfifakee-Project** a digital ghost roaming the halls of cyberspace. By day, I'm a developer crafting code with precision and elegance; by night, I transform into a penetration tester hunting for vulnerabilities in systems.
-
-My mission? Making the digital world a safer place, **one vulnerability at a time**. Since 2018, I've been immersed in the world of cybersecurity navigating firewalls, understanding protocol languages, and ethically uncovering system weaknesses.
-
-For me, security isn't just about finding vulnerabilities, but about understanding how systems work at the **lowest level**, how they can fail, and how to make them stronger than ever.
+Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadanBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
 
 ---
 
@@ -206,16 +202,6 @@ Drinking coffee (lots of it!) - Fuel for late-night sessions
 Reverse engineering old video games for fun
 Building custom mechanical keyboards
 ```
-
----
-
-## Currently Vibing To
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-</p>
 
 ---
 
