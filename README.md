@@ -10,11 +10,7 @@
 Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadanBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=gradient" />
-  <br>
   <i>"The only secure system is the one that's powered off. And even that's questionable."</i>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=gradient" />
 </p>
 
 ## Whoami
