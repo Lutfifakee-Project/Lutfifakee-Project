@@ -156,6 +156,7 @@ graph LR
 ## Contributing
 <p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.</p>
 <p>Thanks for visiting my GitHub profile! Feel free to contact me if you have any questions or if you would like to collaborate on a project.</p>
+
 ---
 
 <p align="center">
