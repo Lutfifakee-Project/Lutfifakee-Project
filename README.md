@@ -7,6 +7,8 @@
 </p>
 
 ---
+Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadanBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
+
 
 ## Whoami
 
@@ -19,8 +21,6 @@ root@lutfifakee:~$ root
 let identity = "Lutfifakee-Project"
 echo "Hello, world! I'm ", identity, " - a digital ghost roaming the halls of cyberspace."
 ```
-
-Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadanBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
 
 ---
 
