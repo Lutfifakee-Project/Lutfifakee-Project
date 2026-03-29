@@ -152,6 +152,12 @@ graph LR
 [FUN] Fact: I can crack a Wi-Fi password faster than you can say "cybersecurity"
 ```
 
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
+Thanks for visiting my GitHub profile! Feel free to contact me if you have any questions or if you would like to collaborate on a project.
 ---
 
 <p align="center">
