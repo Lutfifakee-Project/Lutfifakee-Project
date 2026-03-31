@@ -27,51 +27,6 @@ echo "Hello, world! I'm ", identity, " - a digital ghost roaming the halls of cy
 
 ---
 
-## Language Matrix
-
-### Hardware-Near Languages (Speaking directly to the silicon)
-```
-Assembly    ■■■■■■■■■■ 100% - Talking to CPUs in their native tongue
-C           ■■■■■■■■■■ 100% - The godfather of system programming
-C++         ■■■■■■■■■□ 95%  - When objects meet performance
-Rust        ■■■■■■■■■□ 95%  - Memory-safe without garbage collection
-Zig         ■■■■■■■□□□ 75%  - Modern take on system programming
-```
-
-### Web Development (Crafting digital experiences)
-
-**Frontend:**
-```
-HTML        ■■■■■■■■■■ 100% - The skeleton of the web
-CSS         ■■■■■■■■■■ 100% - Making things beautiful
-JavaScript  ■■■■■■■■■■ 100% - The language that runs the world
-TypeScript  ■■■■■■■■■□ 95%  - JavaScript with superpowers
-Dart        ■■■■■■■□□□ 75%  - Flutter's native tongue
-```
-
-**Backend:**
-```
-PHP         ■■■■■■■■■■ 100% - Powering 80% of the web
-Node.js     ■■■■■■■■■■ 100% - JavaScript on the server
-Python      ■■■■■■■■■■ 100% - The Swiss Army knife
-Java        ■■■■■■■■■□ 95%  - Enterprise-grade robustness
-Go          ■■■■■■■■■□ 95%  - Concurrency done right
-Ruby        ■■■■■■■□□□ 80%  - Developer happiness first
-C#          ■■■■■■■□□□ 80%  - Microsoft's finest
-Kotlin      ■■■■■■□□□□ 70%  - Java but better
-Swift       ■■■■■■□□□□ 70%  - Apple's ecosystem
-```
-
-### Most Frequently Used (My daily drivers)
-```
-Bash        ■■■■■■■■■■ 100% - Automating everything
-PowerShell  ■■■■■■■■■□ 95%  - When Windows needs some love
-Perl        ■■■■■■■■■■ 100% - The duct tape of the internet
-Lua         ■■■■■■■■■■ 100% - Embedding scripts everywhere
-```
-
----
-
 ## Tech Stack Visualization
 
 <p align="center">
@@ -98,23 +53,6 @@ graph LR
     J --> M[Exploit Development]
 ```
 
----
-
-## Arsenal
-
-### Core Weapons
-| Category | Tools & Technologies |
-|----------|---------------------|
-| Primary Languages | Python, JavaScript/TypeScript, PHP, C/C++, Assembly |
-| Web Stack | HTML5, CSS3, React.js, Node.js, Express.js, Laravel |
-| Pentesting | Metasploit, Burp Suite, Nmap, Wireshark, SQLmap, Ghidra |
-| Security | Firewall Configuration, IDS/IPS, Cryptography, Reverse Engineering |
-| Databases | MySQL, MongoDB, PostgreSQL, Redis, SQLite |
-| DevOps & Tools | Docker, Kubernetes, Jenkins, Git, Vagrant, Ansible |
-| Scripting | Bash, PowerShell, Perl, Lua, AWK, Sed |
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -122,17 +60,6 @@ graph LR
 </p>
 
 ---
-
-## Current Operations
-
-```
-[ACTIVE] Working on: Advanced penetration testing automation tools
-[LEARNING] Blockchain security & Smart Contract auditing
-[OPEN] Looking to collaborate: Open-source security tools
-[EXPERT] Ask me about: Ethical hacking, Network security, Exploit development
-[FUN] Fact: I can crack a Wi-Fi password faster than you can say "cybersecurity"
-```
-
 
 ## Contributing
 <p>Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.</p>
