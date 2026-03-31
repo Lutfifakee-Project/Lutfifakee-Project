@@ -115,25 +115,6 @@ graph LR
 
 ---
 
-## Certifications & Achievements
-
-```
-┌─────────────────────────────────────┐
-│  OSCP  ■■■■■■■■■■  Certified        │
-│  CEH   ■■■■■■■■■■  Certified        │
-│  HTB   ■■■■■■■■■■  Top 5% Global    │
-│  CVE   ■■■■■■■■■■  Multiple Finds   │
-└─────────────────────────────────────┘
-```
-
-- OSCP (Offensive Security Certified Professional)
-- CEH (Certified Ethical Hacker)
-- Top 5% in HackTheBox Global Rankings
-- Multiple CVEs Discovered & Credited
-- Bug Bounty Hall of Fame Member
-
----
-
 ## GitHub Stats
 
 <p align="center">
