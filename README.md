@@ -107,7 +107,7 @@ graph LR
 |----------|---------------------|
 | Primary Languages | Python, JavaScript/TypeScript, PHP, C/C++, Assembly |
 | Web Stack | HTML5, CSS3, React.js, Node.js, Express.js, Laravel |
-| Pentesting | Metasploit, Burp Suite Pro, Nmap, Wireshark, SQLmap, Ghidra |
+| Pentesting | Metasploit, Burp Suite, Nmap, Wireshark, SQLmap, Ghidra |
 | Security | Firewall Configuration, IDS/IPS, Cryptography, Reverse Engineering |
 | Databases | MySQL, MongoDB, PostgreSQL, Redis, SQLite |
 | DevOps & Tools | Docker, Kubernetes, Jenkins, Git, Vagrant, Ansible |
