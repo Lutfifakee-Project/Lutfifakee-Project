@@ -7,7 +7,7 @@
 </p>
 
 ---
-Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadanBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
+Hello, world! I'm Lutfifakee a developer, cybersecurity enthusiast, and founder of PadangBlackHat Team, exploring the depths of the digital world. By day, I build and refine code with precision and efficiency. By night, I dive into penetration testing, identifying vulnerabilities and strengthening system defenses.
 
 <p align="center">
   <i>"The only secure system is the one that's powered off. And even that's questionable."</i>
