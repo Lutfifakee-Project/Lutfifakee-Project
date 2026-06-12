@@ -1,44 +1,34 @@
-# Lutfifakee
-
-<p align="center"> 
-<img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" alt="Lutfifakee Banner" width="600"/>
-</p>
-
-## Hello! I'm **Lutfifakee** 👋
-
-- 🔐 **Pentester & Ethical Hacker**
-- 👨‍💻 **Developer** (Python, JavaScript, PHP, C++, etc.)
-- 🧠 Founder of **PadangBlackHat Team**
-- 🌙 Night for testing, day for coding
-
-> *"The only secure system is the one that's powered off. And even that's questionable."*
-
----
-
-## 🛠️ Commonly used technologies
+# ⎯ Lutfifakee ⎯
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,html,css,php,java,cpp,bash,go,mysql,react,docker,git,linux" />
+  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="520"/>
 </p>
-
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lutfifakee-Project&show_icons=true&theme=dark&icon_color=00ff00&title_color=00ff00" width="48%" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lutfifakee-Project&theme=dark&stroke=00ff00&ring=00ff00" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=pentester+%3E+%24_;exploit+developer;ethical+hacker;code+architect" />
+</p>
+
+<p align="center">
+  <code>// break.security(); build.systems();</code>
 </p>
 
 ---
 
-## 📫 Contact
+## 🧬 profile.exe
 
-- GitHub: [Lutfifakee-Project](https://github.com/Lutfifakee-Project)
-- Open for collaboration or discussion on security & dev
+```bash
+> whoami
+lutfifakee
 
----
+> cat role
+- 🔐 penetration tester
+- 💻 developer (Python · JavaScript · PHP · C++)
+- ⚙️ founder @ PadangBlackHat Team
+- 🧩 reverse engineering · exploit dev · web sec
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Lutfifakee-Project&label=Views&color=00ff00&style=flat-square" />
-</p>
+> echo $philosophy
+"trust nothing. test everything."
+```
+
+## ⚡ toolkit
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,js,php,java,cpp,bash,go,rust,mysql,react,docker,git,linux,neovim" /> </p>
