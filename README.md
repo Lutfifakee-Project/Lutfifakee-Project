@@ -1,7 +1,7 @@
 # Hi there, I'm Lutfifakee
 
 <p align="center">
-  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="520" height="260" alt="Lutfifakee Logo">
+  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="820" height="260" alt="Lutfifakee Logo">
 </p>
 
 <p align="center">
@@ -39,4 +39,3 @@ lutfifakee
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,php,java,cpp,bash,go,rust,mysql,react,docker,git,linux,neovim&theme=light&perline=8" width="500" />
 </p>
-
