@@ -1,7 +1,7 @@
 # Hi there, I'm Lutfifakee
 
 <p align="center">
-  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="820" height="260" alt="Lutfifakee Logo">
+  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="800" height="300" alt="Lutfifakee Logo">
 </p>
 
 <p align="center">
