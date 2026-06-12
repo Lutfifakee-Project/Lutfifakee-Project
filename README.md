@@ -37,6 +37,6 @@ lutfifakee
 ## ⚡ Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,php,java,cpp,bash,go,rust,mysql,react,docker,git,linux,neovim&theme=light&perline=8" width="40" />
+  <img src="https://skillicons.dev/icons?i=py,js,php,java,cpp,bash,go,rust,mysql,react,docker,git,linux,neovim&theme=light&perline=8" width="120" />
 </p>
 
