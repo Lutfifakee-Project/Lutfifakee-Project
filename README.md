@@ -20,10 +20,8 @@
 
 ## About Me
 
-Hello! I am **Lutfifakee**, a developer and penetration tester with a strong interest in cybersecurity, ethical hacking, and software security.
-
+Hello! I am **Lutfifakee**, a developer, penetration tester, and the **Founder of PadangBlackHat Team**, with a strong interest in cybersecurity, ethical hacking, and software security.
 I enjoy exploring vulnerabilities, developing security tools, conducting security research, participating in CTFs, and contributing to open-source projects.
-
 I believe in sharing knowledge and helping others better understand cybersecurity and software security.
 
 ## Skills
