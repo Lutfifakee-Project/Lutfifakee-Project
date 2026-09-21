@@ -1,52 +1,131 @@
-# Lutfifakee-Project
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="800" height="300" alt="Lutfifakee Logo">
-</p>
+# Lutfifakee
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=pentester+%3E+%24_;exploit+developer;ethical+hacker;code+architect" alt="Typing SVG">
-</p>
+**Developer · Security Researcher · Penetration Tester**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lutfifakee-Project&label=views&color=00ff00&style=flat-square" alt="Profile Views">
-</p>
-
-<p align="center">
-  <code>// break.security(); build.systems();</code>
-</p>
+</div>
 
 ---
 
-## About Me
+## About
 
-Hello! I am **Lutfifakee**, a developer, penetration tester, and the **Founder of PadangBlackHat Team**, with a strong interest in cybersecurity, ethical hacking, and software security.
-I enjoy exploring vulnerabilities, developing security tools, conducting security research, participating in CTFs, and contributing to open-source projects.
-I believe in sharing knowledge and helping others better understand cybersecurity and software security.
+Hello! I'm **Lutfifakee**, a developer, security researcher, and penetration tester from Indonesia.
 
-## Skills
+I'm also the **Founder of PadangBlackHat Team**, with a strong interest in cybersecurity, software security, vulnerability research, and security tool development.
 
-- **Programming Languages**: Python, JavaScript, C++, Java, C#, PHP
-- **Web Technologies**: HTML, CSS, React, Node.js
-- **Security Tools**: Metasploit, Burp Suite, Nmap, Wireshark
-- **Frameworks & Libraries**: Flask, Express.js
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
+I enjoy building practical software, researching security issues, developing security tools, and exploring how systems can be designed and secured.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or new ideas, feel free to open an issue or submit a pull request.
+My work covers both **software development and cybersecurity**, ranging from web applications and automation to vulnerability research, binary analysis, and security tooling.
 
 ---
 
-## Old GitHub Account
+## Focus
 
-My previous GitHub account is no longer accessible to me:
-
-**https://github.com/X-Projetion**
+- Cybersecurity & Application Security
+- Penetration Testing
+- Vulnerability Research
+- Security Tool Development
+- Reverse Engineering
+- Binary & Malware Analysis
+- Web Security
+- Software Development
+- Open Source
 
 ---
 
-Thanks for visiting my GitHub profile!
+## Selected Projects
 
-Feel free to explore my projects and repositories.
+### NusantaraScan
+
+**Binary analysis and security research toolkit** focused on PE/ELF analysis, malware analysis, YARA rules, and reverse engineering workflows.
+
+[View Repository →](https://github.com/Lutfifakee-Project/NusantaraScan)
+
+### SQLTouch
+
+**SQL injection security testing tool** built for security research and authorized penetration testing.
+
+[View Repository →](https://github.com/Lutfifakee-Project/SQLTouch)
+
+### WP2Shell
+
+**WordPress security research toolkit** focused on vulnerability detection and authorized security testing.
+
+[View Repository →](https://github.com/Lutfifakee-Project/wp2shell)
+
+### Neko-Paste
+
+A lightweight **paste-sharing platform** for text, source code, logs, and files with raw links and expiration controls.
+
+[View Repository →](https://github.com/Lutfifakee-Project/Neko-Paste)
+
+---
+
+## Technologies
+
+### Languages
+
+`Python` `JavaScript` `C++` `Java` `C#` `PHP` `Lua`
+
+### Web
+
+`HTML` `CSS` `React` `Node.js`
+
+### Security
+
+`Burp Suite` `Nmap` `Wireshark` `Metasploit` `YARA`
+
+### Frameworks & Databases
+
+`Flask` `Express.js` `MySQL` `MongoDB`
+
+### Development
+
+`Git` `GitHub` `Roblox Studio`
+
+---
+
+## Security Research
+
+My security-related work focuses on **authorized testing, vulnerability research, defensive analysis, and security education**.
+
+I aim to build tools that help developers and security practitioners better understand vulnerabilities, analyze software, and improve security.
+
+---
+
+## Founder
+
+**PadangBlackHat Team**
+
+A cybersecurity community focused on security research, ethical hacking, education, and knowledge sharing.
+
+---
+
+## Website & Social
+
+**Website**  
+[https://lutfifakee.top/](https://lutfifakee.top/)
+
+**X**  
+[https://x.com/Lutfifakee](https://x.com/Lutfifakee)
+
+**Instagram**  
+[https://www.instagram.com/xjustfii](https://www.instagram.com/xjustfii)
+
+---
+
+## Previous GitHub Account
+
+My previous GitHub account is no longer accessible to me.
+
+**X-Projetion**  
+https://github.com/X-Projetion
+
+---
+
+<div align="center">
+
+`build systems. research security. share knowledge.`
+
+</div>
