@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Lutfifakee-Project/Lutfifakee-Project/blob/main/lutfifakee-icon.png?raw=true" width="800" height="300" alt="Lutfifakee"> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/45/be/13/45be13bc8504cadaa00e7f77053a780e.gif" width="800" height="300" alt="Lutfifakee"> </p>
 <div align="center">
 
 # Lutfifakee
