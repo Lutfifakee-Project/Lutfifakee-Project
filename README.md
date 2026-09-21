@@ -32,26 +32,6 @@ My work covers both **software development and cybersecurity**, ranging from web
 
 ---
 
-## Selected Projects
-
-### NusantaraScan
-**Binary analysis and security research toolkit** focused on PE/ELF analysis, malware analysis, YARA rules, and reverse engineering workflows.
-[View Repository →](https://github.com/Lutfifakee-Project/NusantaraScan)
-
-### SQLTouch
-**SQL injection security testing tool** built for security research and authorized penetration testing.
-[View Repository →](https://github.com/Lutfifakee-Project/SQLTouch)
-
-### WP2Shell
-**WordPress security research toolkit** focused on vulnerability detection and authorized security testing.
-[View Repository →](https://github.com/Lutfifakee-Project/wp2shell)
-
-### Neko-Paste
-A lightweight **paste-sharing platform** for text, source code, logs, and files with raw links and expiration controls.
-[View Repository →](https://github.com/Lutfifakee-Project/Neko-Paste)
-
----
-
 ## Technologies
 
 ### Languages
