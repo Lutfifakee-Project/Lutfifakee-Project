@@ -68,11 +68,3 @@ My previous GitHub account is no longer accessible to me.
 
 **X-Projetion**  
 https://github.com/X-Projetion
-
----
-
-<div align="center">
-
-`build systems. research security. share knowledge.`
-
-</div>
