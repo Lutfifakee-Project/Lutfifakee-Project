@@ -12,8 +12,11 @@
 ## About
 
 Hello! I'm **Lutfifakee**, a developer, security researcher, and penetration tester from Indonesia.
+
 I'm also the **Founder of PadangBlackHat Team**, with a strong interest in cybersecurity, software security, vulnerability research, and security tool development.
+
 I enjoy building practical software, researching security issues, developing security tools, and exploring how systems can be designed and secured.
+
 My work covers both **software development and cybersecurity**, ranging from web applications and automation to vulnerability research, binary analysis, and security tooling.
 
 ---
