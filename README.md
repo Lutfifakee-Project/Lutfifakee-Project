@@ -1,4 +1,6 @@
-<img src="./lutfifakee-icon.png" width="240" align="right" alt="Lutfifakee">
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 # Lutfifakee
 
@@ -10,16 +12,24 @@ I build security tools, research vulnerabilities, and explore how software works
 
 [GitHub](https://github.com/Lutfifakee-Project) · [Website](https://lutfifakee.top/)
 
-<br clear="right">
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./lutfifakee-icon.png" width="240" alt="Lutfifakee">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### Selected Work
 
-**Cevrixa**
+**Cevrixa**  
 Evidence-First Vulnerability Detection Intelligence
 
-**NusantaraScan**
+**NusantaraScan**  
 Binary Analysis & Security Research Toolkit
 
 ---
