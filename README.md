@@ -40,4 +40,4 @@ Application Security · Vulnerability Research · Reverse Engineering · Binary 
 
 ---
 
-<sub>Build tools. Research vulnerabilities. Understand systems.</sub>
+<sub>Build things. Break things. Understand everything.</sub>
