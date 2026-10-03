@@ -10,7 +10,7 @@ I build security tools, research vulnerabilities, and explore how software works
 
 `Security Research` · `Vulnerability Research` · `Reverse Engineering` · `Security Tooling`
 
-[GitHub](https://github.com/Lutfifakee-Project) · [Website](https://lutfifakee.top/)
+[GitHub](https://github.com/Lutfifakee-Project) · [Previous GitHub — Inactive](https://github.com/X-Projetion) · [Website](https://lutfifakee.top/)
 
 </td>
 
