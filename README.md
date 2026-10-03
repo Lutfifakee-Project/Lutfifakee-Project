@@ -12,16 +12,6 @@ I build security tools, research vulnerabilities, and explore how software works
 
 [GitHub](https://github.com/Lutfifakee-Project) · [Website](https://lutfifakee.top/)
 
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img src="./lutfifakee-icon.png" width="240" alt="Lutfifakee">
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### Selected Work
@@ -39,5 +29,17 @@ Binary Analysis & Security Research Toolkit
 Application Security · Vulnerability Research · Reverse Engineering · Binary Analysis
 
 ---
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./lutfifakee-icon.png" width="240" alt="Lutfifakee">
+
+</td>
+</tr>
+</table>
+
+
 
 <sub>Build tools. Research vulnerabilities. Understand systems.</sub>
